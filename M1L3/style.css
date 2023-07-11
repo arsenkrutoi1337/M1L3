@@ -1,0 +1,13 @@
+body {
+    font-family: Inter, monospace; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #FD98FB; /* Цвет фона веб-страницы */
+    color: #5988FF; /* Цвет основного текста */ 
+}
+
+h1 {
+    color: #FFFFFF; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+    
+}
